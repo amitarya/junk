@@ -1,0 +1,24 @@
+===README==
+
+1) To build project use make.
+
+bash$ make
+
+Notes: For a debug build please use.
+
+bash$ make DFLAGS="-ggdb -DDEBUG"
+
+As a debugging feature I have added
+the TLVObject::Dump to dump the in-memory
+state of TLVObjects helping us in debugging.
+
+2) To use the utility
+
+bash$ ./imageConverter <input binary file> <output file>
+
+For Eg.
+
+./imageConverter TestInputs/TestInput1.binimage /tmp/TestInput1.pixmap
+
+
+

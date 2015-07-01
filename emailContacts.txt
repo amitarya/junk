@@ -1,0 +1,7 @@
+C1: shuw@oo.com, shu@gmail.com
+C2: bob@oo.com
+C3: shu@gmail.com, shuwu@yahoo.com
+C4: shuwu@yahoo.com
+C5: bob@oo.com
+C6: jamie@oo.com
+
